@@ -1,0 +1,20 @@
+{
+  "name": "yt-wizard-local",
+  "interface": {
+    "displayName": "YT Wizard Local Plugins"
+  },
+  "plugins": [
+    {
+      "name": "meta-skills",
+      "source": {
+        "source": "local",
+        "path": "C:/Coding Projects/Files/plugins/meta-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
