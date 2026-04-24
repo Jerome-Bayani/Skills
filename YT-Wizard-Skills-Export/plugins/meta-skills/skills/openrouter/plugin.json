@@ -1,0 +1,15 @@
+{
+  "name": "openrouter",
+  "description": "Interacts with the OpenRouter API.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tim Green",
+    "email": "rawveg@gmail.com"
+  },
+  "homepage": "https://github.com/rawveg/meta-skills",
+  "repository": "https://github.com/rawveg/meta-skills",
+  "license": "MIT",
+  "keywords": ["openrouter", "Codex"],
+  "category": "productivity",
+  "strict": false
+}
